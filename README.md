@@ -1,4 +1,5 @@
 # Whispers of the Heart
+![content](https://github.com/user-attachments/assets/9260bc19-78ca-47a1-bfc8-873a6dd37877)
 
 **Project Name**: Whispers of the Heart  
 **Creator**: Sabbir Hosen Akash  
@@ -13,8 +14,9 @@ The project represents a journey of self-discovery, where each piece reflects pe
 ---
 
 ## About Sabbir Hosen Akash
+![images (1) (12)](https://github.com/user-attachments/assets/e1292dd7-1311-450a-9119-0fa17bde76a1)
 
-Sabbir Hosen Akash, a passionate Bangladeshi singer-songwriter, composer, lyricist, writer, and music producer, is known for his evocative contributions to the pop, rock, and folk music scenes. Born on January 3, 2002, in Sandwip Upazila, Bangladesh, Akash discovered his passion for music at a young age, focusing on instruments such as the keyboard and guitar. 
+Sabbir Hosen Akash, a passionate Bangladeshi singer-songwriter, composer, lyricist, writer, and music producer, is known for his evocative contributions to the pop, rock, and folk music scenes. Born in Sandwip Upazila, Bangladesh, Akash discovered his passion for music at a young age, focusing on instruments such as the keyboard and guitar. 
 
 He is also an emerging voice in Bangladeshi literature, with his debut book *Whispers of the Heart*, a poignant exploration of love, self-discovery, and personal transformation. As the keyboard player for the Oparok Band, Akash contributes his creative talents to the band's evocative sound, while also carving out a space for himself as a solo artist and writer. 
 
@@ -40,7 +42,7 @@ Through this project, Akash seeks to communicate the deepest layers of human con
 
 *Whispers of the Heart* is an ongoing project, and your contributions are welcome. Whether you’re a listener, a reader, or a fellow artist, we invite you to join the conversation.
 
-- **GitHub Repository**: [Whispers of the Heart](#)  
+- **GitHub Repository**: [Whispers of the Heart](https://books.google.com.bd/books?id=lyE2EQAAQBAJ&pg=PA2&source=kp_read_button&hl=en&newbks=1&newbks_redir=0&gboemv=1&ovdme=1&redir_esc=y#v=onepage&q&f=false)  
 - **Follow Sabbir Hosen Akash**:  
   - [Sabbir Hosen Akash](https://www.Instagram.com/sabbirhosenakash)  
   - [Oparok Band](#)  
@@ -55,7 +57,7 @@ Through this project, Akash seeks to communicate the deepest layers of human con
 - **Genres**: Pop, Rock, Folk  
 - **Notable Works**: *Mritto Bahok*, *Moner Dukkho*, *PLKA*, *Harano Golpo*  
 - **Born**: January 3, 2002, Sandwip Upazila, Bangladesh  
-- **Official Website**: [www.sabbirhosenakash.com](#) *(if applicable)*
+- **Official Website**: [https://www.facebook.com/sabbirh0senakash](#) *(if applicable)*
 
 ---
 

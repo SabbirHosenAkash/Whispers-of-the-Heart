@@ -72,7 +72,7 @@
 
 ## 🚀 **Quick Links**
 🔹 [Website](https://www.facebook.com/sabbirh0senakash)  
-🔹 [GitHub Profile](https://github.com/sabbirhosen)  
+🔹 [GitHub Profile](https://github.com/sabbirhosenakash)  
 🔹 [Music on YouTube](https://youtube.com/@sabbirhosenakash)  
 
 ---

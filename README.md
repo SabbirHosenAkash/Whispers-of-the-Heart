@@ -1,66 +1,87 @@
-# Whispers of the Heart
-![content](https://github.com/user-attachments/assets/9260bc19-78ca-47a1-bfc8-873a6dd37877)
+<!-- 🔥 Animated Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="800">
+</p>
 
-**Project Name**: Whispers of the Heart  
-**Creator**: Sabbir Hosen Akash  
-**Genre**: Music, Literature, Emotions
-
-## Project Overview
-
-*"Whispers of the Heart"* is a creative project by Sabbir Hosen Akash, exploring the intricate nature of human emotions, personal growth, and love. It is a combination of music, writing, and creative expression, designed to connect deeply with the heart's desires, struggles, and transformations.
-
-The project represents a journey of self-discovery, where each piece reflects personal experiences, heartfelt emotions, and the universal journey of love and loss. This multifaceted project weaves together music and literature, aiming to evoke thought, stir emotion, and inspire growth in anyone who engages with it.
+<h1 align="center">🎵 Whispers of the Heart 🎵</h1>
+<p align="center">
+  <i>Exploring Love, Emotions & Music</i>
+</p>
 
 ---
 
-## About Sabbir Hosen Akash
-![images (1) (12)](https://github.com/user-attachments/assets/e1292dd7-1311-450a-9119-0fa17bde76a1)
+## 🎤 **Project Overview**
+💖 **"Whispers of the Heart"** is a unique blend of **music and literature**, created by **Sabbir Hosen Akash**. This project captures the deepest emotions of love, heartbreak, and self-discovery.  
 
-Sabbir Hosen Akash, a passionate Bangladeshi singer-songwriter, composer, lyricist, writer, and music producer, is known for his evocative contributions to the pop, rock, and folk music scenes. Born in Sandwip Upazila, Bangladesh, Akash discovered his passion for music at a young age, focusing on instruments such as the keyboard and guitar. 
+💡 **What’s Inside?**  
+✔️ **🎶 Music** - Original pop, rock & folk compositions  
+✔️ **📖 Literature** - Poetry, heartfelt stories & reflections  
+✔️ **💡 Inspiration** - Encouraging self-discovery through art  
 
-He is also an emerging voice in Bangladeshi literature, with his debut book *Whispers of the Heart*, a poignant exploration of love, self-discovery, and personal transformation. As the keyboard player for the Oparok Band, Akash contributes his creative talents to the band's evocative sound, while also carving out a space for himself as a solo artist and writer. 
-
-His notable albums, including *Mritto Bahok*, *Moner Dukkho*, and *Harano Golpo*, alongside his hit song *Mritto Bahok*, have garnered attention for their emotional depth and musical innovation. Akash's artistic expression has made him a recognized figure in both the music and literary communities.
-
----
-
-## Vision for *Whispers of the Heart*
-
-Through this project, Akash seeks to communicate the deepest layers of human connection and inner conflict, often through the lens of romantic relationships, personal battles, and the ongoing quest for personal fulfillment. Every element of *Whispers of the Heart* serves to invite listeners and readers to reflect on their own journeys of love and loss, helping them connect with their own hearts in profound ways.
+🔗 **[Explore the Project](https://books.google.com.bd/books?id=lyE2EQAAQBAJ)**  
 
 ---
 
-## Key Features
+## 👤 **About Sabbir Hosen Akash**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e1292dd7-1311-450a-9119-0fa17bde76a1" width="250">
+</p>
 
-- **Music**: Original compositions that blend the genres of pop, rock, and folk, capturing the emotional landscape of the heart.
-- **Literary Work**: A collection of written works that delve into themes of love, loss, and self-discovery.
-- **Emotional Exploration**: Through both music and writing, this project aims to explore deep emotional themes, allowing for personal growth and connection with the audience.
+🎸 **Sabbir Hosen Akash** is a **Bangladeshi singer-songwriter, composer, lyricist, and writer**. His music blends **pop, rock, and folk**, creating an emotional experience for his listeners.  
 
----
-
-## Get Involved
-
-*Whispers of the Heart* is an ongoing project, and your contributions are welcome. Whether you’re a listener, a reader, or a fellow artist, we invite you to join the conversation.
-
-- **GitHub Repository**: [Whispers of the Heart](https://books.google.com.bd/books?id=lyE2EQAAQBAJ&pg=PA2&source=kp_read_button&hl=en&newbks=1&newbks_redir=0&gboemv=1&ovdme=1&redir_esc=y#v=onepage&q&f=false)  
-- **Follow Sabbir Hosen Akash**:  
-  - [Sabbir Hosen Akash](https://www.Instagram.com/sabbirhosenakash)  
-  - [Oparok Band](#)  
+🏆 **Key Achievements:**  
+✔️ **3-time Winner** of Sandwip Music Program  
+✔️ **Verified Artist** on **YouTube, Spotify & Apple Music**  
+✔️ **Debut Book:** *Whispers of the Heart*  
+✔️ **Keyboardist** of Oparok Band  
 
 ---
 
-## Connect with Sabbir Hosen Akash
-
-- **Name**: Sabbir Hosen Akash  
-- **Artist Name**: Writarion  
-- **Nickname**: Sabbir  
-- **Genres**: Pop, Rock, Folk  
-- **Notable Works**: *Mritto Bahok*, *Moner Dukkho*, *PLKA*, *Harano Golpo*  
-- **Born**: January 3, 2002, Sandwip Upazila, Bangladesh  
-- **Official Website**: [https://www.facebook.com/sabbirh0senakash](#) *(if applicable)*
+## 🌟 **Project Features**
+✅ **🎼 Soulful Music:** Expressive pop, rock, and folk compositions  
+✅ **✍️ Thoughtful Writing:** Heartfelt poetry & stories  
+✅ **🎨 Artistic Vision:** Emotional depth through creative storytelling  
+✅ **🌎 Global Influence:** Connecting people worldwide  
 
 ---
 
-## License
+## 🛠 **How to Get Involved**
+💖 **Love music & literature? Join us!**  
+🔗 **[Listen on Spotify](https://open.spotify.com/artist/XYZ)**  
+🔗 **[Follow on Instagram](https://www.instagram.com/sabbirhosenakash)**  
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+---
+
+## 📊 **Live Statistics**
+![Profile Views](https://komarev.com/ghpvc/?username=sabbirhosen&label=Profile%20Views&color=blueviolet)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabbirhosen&show_icons=true&theme=radical)  
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=sabbirhosen&theme=tokyonight)  
+
+---
+
+## 🚀 **Quick Links**
+🔹 [Website](https://www.facebook.com/sabbirh0senakash)  
+🔹 [GitHub Profile](https://github.com/sabbirhosen)  
+🔹 [Music on YouTube](https://youtube.com/@sabbirhosenakash)  
+
+---
+
+## 🤝 **Connect with Me**
+📌 **Facebook:** [Sabbir Hosen Akash](https://www.facebook.com/sabbirh0senakash)  
+📌 **GitHub:** [Writarion](https://github.com/sabbirhosen)  
+📌 **Instagram:** [@sabbirhosenakash](https://www.instagram.com/sabbirhosenakash)  
+
+---
+
+## 🏆 **License & Credits**
+📜 This project is licensed under **MIT License**.  
+
+---
+  
+<p align="center">
+  <img src="https://img.shields.io/github/stars/sabbirhosen/Whispers-of-the-Heart?style=social">
+  <img src="https://img.shields.io/github/forks/sabbirhosen/Whispers-of-the-Heart?style=social">
+  <img src="https://img.shields.io/github/issues/sabbirhosen/Whispers-of-the-Heart">
+</p>
+
+---

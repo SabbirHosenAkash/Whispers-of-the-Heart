@@ -7,7 +7,10 @@
 <p align="center">
   <i>Exploring Love, Emotions & Music</i>
 </p>
-
+<!-- Book Cover Image -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9260bc19-78ca-47a1-bfc8-873a6dd37877" width="200">
+</p>
 ---
 
 ## 🎤 **Project Overview**
@@ -35,6 +38,14 @@
 ✔️ **Debut Book:** *Whispers of the Heart*  
 ✔️ **Keyboardist** of Oparok Band  
 
+## 🎓 **Education**
+🎓 **South Sandwip High School**  
+📆 **SSC Completed**: 2022  
+📍 **Sandwip, Bangladesh**
+
+🎓 **Govt Hazi A B College**  
+📆 **HSC Completed (2024)**  
+📍 **Sandwip, Bangladesh**
 ---
 
 ## 🌟 **Project Features**
